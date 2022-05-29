@@ -1,8 +1,7 @@
 # Note-Maker
 
 # Note-Maker link
-Live URL: https://dramm1.github.io/GenerateTeamProfile/
-
+Live URL: https://dramm1.github.io/Note-Maker/
 # Acceptance Criteria
 - GIVEN a note-taking application
 - WHEN I open the Note Taker
@@ -37,7 +36,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 - GitHub Link:
 
-- https://github.com/DRamm1/GenerateTeamProfile
+- https://github.com/DRamm1/Note-Maker
 
 - Framework:
 Javascript, node, npm
